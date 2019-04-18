@@ -1,0 +1,1 @@
+[07-Dec-2018 07:40:30 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/almamat2/public_html/coroasdenatal/wp-content/themes/twentyseventeen/404.php on line 13

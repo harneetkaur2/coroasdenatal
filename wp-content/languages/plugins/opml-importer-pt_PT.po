@@ -1,0 +1,90 @@
+# Translation of Plugins - OPML Importer - Development (trunk) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - OPML Importer - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-20 08:32:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - OPML Importer - Development (trunk)\n"
+
+#: opml-importer.php:28
+msgid "Import Blogroll"
+msgstr "Importar Blogroll"
+
+#: opml-importer.php:74
+msgid "Now select a category you want to put these links in."
+msgstr "Agora, seleccione uma categoria na qual pretende colocar estes links."
+
+#: opml-importer.php:75
+msgid "Category:"
+msgstr "Categoria:"
+
+#: opml-importer.php:86
+msgid "Import OPML File"
+msgstr "Importar Ficheiro OPML"
+
+#: opml-importer.php:103
+msgid "Importing..."
+msgstr "A importar..."
+
+#: opml-importer.php:54
+msgid "Import your blogroll from another system"
+msgstr "Importe os seus links a partir de outro sistema"
+
+#: opml-importer.php:58
+msgid "If a program or website you use allows you to export your links or subscriptions as OPML you may import them here."
+msgstr "Se utilizar um programa ou site que permita exportar os links ou subscrições em formato OPML, poderá importá-las aqui."
+
+#: opml-importer.php:63
+msgid "Specify an OPML URL:"
+msgstr "Especifique um URL OPML:"
+
+#: opml-importer.php:68
+msgid "Or choose from your local disk:"
+msgstr "Ou escolha a partir do disco:"
+
+#: opml-importer.php:173
+msgid "Blogroll"
+msgstr "Blogroll"
+
+#. #-#-#-#-#  tmp-opml-importer.pot (OPML Importer 0.2)  #-#-#-#-#
+#. Description of the plugin/theme
+#: opml-importer.php:173
+msgid "Import links in OPML format."
+msgstr "Importar links no formato OPML"
+
+#. Plugin Name of the plugin/theme
+msgid "OPML Importer"
+msgstr "Importador de OPML"
+
+#: opml-importer.php:144
+msgid "Inserted <strong>%s</strong>"
+msgstr "Inseridos <strong>%s</strong>"
+
+#: opml-importer.php:148
+msgid "Inserted %1$d links into category %2$s. All done! Go <a href=\"%3$s\">manage those links</a>."
+msgstr "Foram inseridos %1$d links na categoria %2$s. Tudo concluído! Agora, há que <a href=\"%3$s\">gerir esses links</a>."
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#. Author of the plugin/theme
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
+
+#: opml-importer.php:154
+msgid "You need to supply your OPML url. Press back on your browser and try again"
+msgstr "É necessário fornecer o URL OPML. Prima em voltar no seu navegador e tente de novo."
+
+#: opml-importer.php:47 opml-importer.php:99
+msgid "Cheatin&#8217; uh?"
+msgstr "Enganou-se?"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/opml-importer/"
+msgstr "http://wordpress.org/extend/plugins/opml-importer/"

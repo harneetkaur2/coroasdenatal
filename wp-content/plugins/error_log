@@ -1,0 +1,1 @@
+[30-Jan-2019 10:11:51 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/almamat2/public_html/coroasdenatal/wp-content/plugins/hello.php on line 59
